@@ -1,0 +1,26 @@
+1 - Campos:
+			Codigo		: Integer;		Obrigátorio	
+			Nome		: String(30);	Obrigátorio 
+			Disciplina	: String(30);	Obrigátorio 
+			Nota1		: Double;		Obrigátorio 
+			Nota2		: Double;		Obrigátorio 
+			Nota3		: Double;		Obrigátorio 
+			Nota4		: Double;		Obrigátorio 
+			
+			
+2 - Layout:
+			000001|Taina Rodrigues Lisboa|Comunicacao de Dados|10,00|7,50|5,0|5,5|
+
+3 - 
+
+
+4 - Podendo trabalhar com ele ate mesmo em outras plataformas e SO diferentes;
+
+5 - Gerar o arquivo do layout que o sistema de importação entenda para não ocorrer erros;
+
+6 - O  layout é a base para poder importar os dados para outro sistema;
+
+7 - Dependendo do Tamanho das informações que o arquivo tem pode demorar para gerar e salvar ele no arquivo texto;
+
+8 - Arquivos csv,xml,json,xls			
+			
