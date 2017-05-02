@@ -1,11 +1,11 @@
 1 - Campos:
-			Codigo		: Integer;		Obrigátorio	
-			Nome		: String(30);	Obrigátorio 
-			Disciplina	: String(30);	Obrigátorio 
-			Nota1		: Double;		Obrigátorio 
-			Nota2		: Double;		Obrigátorio 
-			Nota3		: Double;		Obrigátorio 
-			Nota4		: Double;		Obrigátorio 
+			Codigo		: Integer(6);		Obrigátorio	
+			Nome		: String(30);		Obrigátorio 
+			Disciplina	: String(30);		Não brigátorio 
+			Nota1		: Double(2,2);		Obrigátorio 
+			Nota2		: Double(2,2);		Obrigátorio 
+			Nota3		: Double(2,2);		Obrigátorio 
+			Nota4		: Double(2,2);		Obrigátorio 
 			
 			
 2 - Layout:
